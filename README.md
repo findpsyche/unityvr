@@ -50,5 +50,8 @@ https://www.thepaper.cn/newsDetail_forward_11031282  （周志华GcForest）
 https://github.com/leerumor/nlp_tutorial
 （入门指南）
 
+Adobe III的破解版（建模）
+https://www.bilibili.com/read/cv20376171
+
 元宇宙入门：
 https://zhuanlan.zhihu.com/p/462373954
