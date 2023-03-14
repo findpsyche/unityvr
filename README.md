@@ -38,3 +38,17 @@ https://www.bilibili.com/video/BV1L14y1877t/?vd_source=e68d289b4cb8960eeb0001471
 教程https://www.bilibili.com/read/cv20376171  
 （安装）
 
+建模素材网站：
+https://assetstore.unity.com/?q=VR&orderBy=4&page=3
+（VRStroe）
+https://sketchfab.com/feed
+（免费素材3D）
+
+GcForest教程（NLP机器学习方向）
+https://www.thepaper.cn/newsDetail_forward_11031282  （周志华GcForest）
+
+https://github.com/leerumor/nlp_tutorial
+（入门指南）
+
+元宇宙入门：
+https://zhuanlan.zhihu.com/p/462373954
