@@ -55,3 +55,7 @@ https://www.bilibili.com/read/cv20376171
 
 元宇宙入门：
 https://zhuanlan.zhihu.com/p/462373954
+
+
+1：大地图 2：NPC Navigation 3：人物对话绑定UI在人物头上  4：人物VR控制 5：UI交互   6：VR交互  7：视频rawimage导入 8：菜单系统
+(以上所有需要的技术大家可以互补）
