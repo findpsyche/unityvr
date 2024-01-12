@@ -62,3 +62,6 @@ https://zhuanlan.zhihu.com/p/462373954
 (以上所有需要的技术大家可以互补） 
 9:小地图：https://blog.csdn.net/alayeshi/article/details/115913174
 （补选）
+
+
+项目更新会在近几天更新，主要是针对多人在线游戏的多人在线学习开发，与5C核心素养联系，后续会与Nerf、Gym等创造的RL探索相联系进行工作。
