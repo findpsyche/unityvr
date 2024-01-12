@@ -1,0 +1,4 @@
+项目是以5C核心素养为结合、以项目学习为指导，在unity3d平台上开发的多人在线学习；
+技术路线为：
+使用的平台和技术内容：
+Photon（多人联机创造） unity3d（开发平台） Hugingface（模型部署） wandb（模型测试） googlecodlab（运行平台）
